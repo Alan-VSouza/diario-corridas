@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "Diário de Corridas",
+  "short_name": "Diário de Corridas",
+  "start_url": "/?utm_source=web_app_manifest"
+}
