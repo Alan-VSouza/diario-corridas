@@ -23,8 +23,10 @@
     "react-native-web": "^0.21.0"
   },
   "devDependencies": {
+    "expo-cli": "^6.0.0",
     "@types/react": "~19.1.0",
     "@types/react-native": "^0.72.8",
+    "babel-preset-expo": "^54.0.4",
     "typescript": "~5.9.2"
   },
   "private": true
